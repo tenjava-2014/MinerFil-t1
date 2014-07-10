@@ -1,0 +1,3 @@
+name: MinerFil-t1
+main: com.tenjava.entries.MinerFil.t1.TenJava
+version: '${project.version}'
